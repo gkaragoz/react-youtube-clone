@@ -31,7 +31,7 @@ function SearchPage() {
         timestamp="3 weeks ago"
         channel="melek mosso"
         title="Melek Mosso ft. ADÜ Güzel Sanatlar - Ederlezi (Goran Bregovic)"
-        image="https://i.ytimg.com/an_webp/j2hFHO2Rl5M/mqdefault_6s.webp?du=3000&sqp=CMq2oPkF&rs=AOn4CLDrI9vWV5HSZ-hhEqU3izbd4I75og"
+        image="https://i.ytimg.com/vi/8cUHDcTQaNs/hq720.jpg"
       />
 
       <VideoRow
@@ -41,7 +41,7 @@ function SearchPage() {
         timestamp="1 month ago"
         channel="melek mosso"
         title="Melek Mosso - Yar (Yıldız Tilbe Cover)"
-        image="https://i.ytimg.com/an_webp/lxqI3CHqPsE/mqdefault_6s.webp?du=3000&sqp=CKqPoPkF&rs=AOn4CLDFncV1Ymi_26JWPjvjaVCO4dSlKQ"
+        image="https://i.ytimg.com/vi/lxqI3CHqPsE/hq720.jpg"
       />
 
       <VideoRow
@@ -51,7 +51,7 @@ function SearchPage() {
         timestamp="2 years ago"
         channel="melek mosso"
         title="Melek Mosso - Arzular Arsız"
-        image="https://i.ytimg.com/an_webp/vwawFAgVg5M/mqdefault_6s.webp?du=3000&sqp=CIWioPkF&rs=AOn4CLDAUlbtf7Epl0qHYBrXNVRziTSVXA"
+        image="https://i.ytimg.com/vi/vwawFAgVg5M/hq720.jpg"
       />
 
       <VideoRow
@@ -61,7 +61,7 @@ function SearchPage() {
         timestamp="9 months ago"
         channel="melek mosso"
         title="Melek Mosso - Gönül gözü"
-        image="https://i.ytimg.com/an_webp/11I7wrHJDaY/mqdefault_6s.webp?du=3000&sqp=CMq8oPkF&rs=AOn4CLDa65bv8smhCIB1KaAeYl1uKwylFg"
+        image="https://i.ytimg.com/vi/11I7wrHJDaY/hq720.jpg"
       />
     </div>
   );
